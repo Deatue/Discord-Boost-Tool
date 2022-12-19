@@ -1,5 +1,5 @@
 from optparse import Option
-import requests, threading, pylo-color, os, random, time
+import requests
 import colorama 
 import sys
 import ctypes
