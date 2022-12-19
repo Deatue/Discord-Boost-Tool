@@ -1,0 +1,11 @@
+requests
+threading
+os
+random
+time
+colorama
+sys
+ctypes
+subprocess
+Fore
+json
